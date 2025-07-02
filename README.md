@@ -1,3 +1,3 @@
 # fullstacktb
 today we are learning git.
-Instruction is vimay sir
+Instruction is vinay sir
